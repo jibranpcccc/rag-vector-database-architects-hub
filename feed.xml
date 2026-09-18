@@ -4,10 +4,17 @@
     <title>RAG &amp; Vector Database Architects Hub</title>
     <link>https://rag-vector-database-architects-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 16 Sep 2026 09:43:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:19:47 GMT</lastBuildDate>
     <atom:link href="https://rag-vector-database-architects-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
+      <link>https://dev.to/t/webdev</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/rag-vector-database-architects-hub/#rag-vector-database-architects-hub-forum-20260918-1-2026-09-18</guid>
+      <pubDate>Fri, 18 Sep 2026 06:19:47 GMT</pubDate>
+      <description>Newly verified community added to RAG &amp; Vector Database Architects Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
+    </item>
+<item>
       <title>RAG &amp; Vector Database Architects Hub Initial Release</title>
       <link>https://rag-vector-database-architects-hub.vercel.app/</link>
       <pubDate>Wed, 16 Sep 2026 09:43:01 GMT</pubDate>
